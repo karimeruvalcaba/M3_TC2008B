@@ -29,15 +29,13 @@ Este proyecto simula un sistema inteligente de gestión del tráfico donde los s
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/simulacion-trafico.git
-   cd simulacion-trafico
+   git clone https://github.com/karimeruvalcaba/M3_TC2008B.git
   ``
 ## ⚙️ Instalación
 
 1. **Instala las dependencias necesarias**:
    ```bash
    pip install mesa
-   ``
    ``
   ## 🚗 Resumen de la Simulación
 
